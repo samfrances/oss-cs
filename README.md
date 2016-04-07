@@ -41,4 +41,4 @@ My completed Courses
 
 | Course | Repo | Certificate |
 | ------ | ---- | ----------- |
-| [Introduction to Computer Science (Udacity)](https://www.udacity.com/course/intro-to-computer-science--cs101) | n/a | [Link](certificates/UdacityCS101.pdf) |
+| [Introduction to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) (Udacity CS101) | n/a | [Link](certificates/UdacityCS101.pdf) |
