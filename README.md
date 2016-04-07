@@ -29,3 +29,16 @@ My current courses
 | Course | Repo |
 | ------ | ---- |
 | [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) (HarvardX CS50x) | [Link](https://github.com/samfrances/edX-HarvardX-CS50x) |
+
+My completed Courses
+--------------------
+
+### Introduction to Computer Science
+
+#### Core courses
+
+#### Extra courses
+
+| Course | Repo | Certificate |
+| ------ | ---- | ----------- |
+| [Introduction to Computer Science (Udacity)](https://www.udacity.com/course/intro-to-computer-science--cs101) | n/a | [Link](certificates/UdacityCS101.pdf) |
